@@ -1,0 +1,12 @@
+# calculadora
+op=input("multiplique para dividir:")if((op!="soma")and(op!="sub")and(op!="div")and(op!="mult")):
+    print("ERRO":operação Ñ reconhecida!"/n") else:
+    opr1=input("enter c/op. operador")
+    opr2=input("enter c/ 2°.operador"
+    iflop=="soma"):
+    R=int(opr1)+int(opr2)
+    elif(op=="sub"):
+        R=int(opr1)-int(opr2)
+
+        
+    
